@@ -1,8 +1,7 @@
 <!-- PROFILE HEADER -->
 <!-- HEADER BANNER -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Venkata%20Sai%20Pedduri&fontSize=50&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20Software%20Developer%20|%20ML%20Systems%20Builder&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=200&section=header&text=VENKATA%20SAI&fontSize=50&fontColor=00ff9f&animation=twinkling&desc=AI%20%7C%20ML%20%7C%20Systems%20Developer&descAlignY=65"/>
 </p>
 
 <p align="center">
@@ -36,27 +35,35 @@
 
 ### Programming
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,sql,javascript"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript"/>
 </p>
 
 ### Frameworks & Platforms
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=django,react,spring,flask"/>
 </p>
 
 ### AI / Machine Learning
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
+
 </p>
 
 Machine Learning • NLP • Scikit-learn • Model Evaluation • Feature Engineering
 
 ### Cloud & Tools
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode"/>
 </p>
 
@@ -103,18 +110,6 @@ Key Work
 Tech
 
 Python • Scikit-learn
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=venkatasai22&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatasai22&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
